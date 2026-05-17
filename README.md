@@ -1,17 +1,90 @@
-# mini_catalog_store
+# Mini Katalog Mağazası
 
-A new Flutter project.
+Flutter eğitimi kapsamında geliştirilmiş modern bir Flutter mini katalog uygulamasıdır.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Ürün listeleme
+- Ürün detay sayfası
+- Favoriler sistemi
+- Alışveriş sepeti
+- Sepet toplam tutarı
+- Ödemeye geç butonu
+- Alt navigasyon menüsü
+- Modern kullanıcı arayüzü tasarımı
+- Arama özelliği
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+
+---
+
+## Flutter Sürümü
+
+```bash
+Tools • Dart 3.11.5 • DevTools 2.54.2
+```
+
+---
+
+## Proje Yapısı
+
+```txt
+lib/
+ ├── data/
+ ├── models/
+ ├── pages/
+ ├── widgets/
+```
+
+---
+
+## Kurulum
+
+1. Repoyu klonlayın
+
+```bash
+git clone [YOUR_GITHUB_URL](https://github.com/yusufkc28/mini_catalog_store)
+```
+
+2. Gerekli paketleri yükleyin
+
+```bash
+flutter pub get
+```
+
+3. Uygulamayı çalıştırın
+
+```bash
+flutter run
+```
+
+---
+
+## Ekran Görüntüleri
+
+### Ana Sayfa
+
+![Home](screenshots/home.png)
+
+### Detay Sayfası
+
+![Detail](screenshots/detail.png)
+
+### Sepet Sayfası
+
+![Cart](screenshots/cart.png)
+
+### Favoriler Sayfası
+
+![Favorites](screenshots/favorites.png)
+
+### Profil Sayfası
+
+![Profile](screenshots/profile.png)
