@@ -2,7 +2,7 @@
 
 Flutter eğitimi kapsamında geliştirilmiş modern bir Flutter mini katalog uygulamasıdır.
 
----
+--- YUSUF KEREM ÇINAR ---
 
 ## Özellikler
 
@@ -22,6 +22,7 @@ Flutter eğitimi kapsamında geliştirilmiş modern bir Flutter mini katalog uyg
 
 - Flutter
 - Dart
+- VS CODE
 
 ---
 
