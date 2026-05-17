@@ -50,7 +50,7 @@ lib/
 1. Repoyu klonlayın
 
 ```bash
-git clone [YOUR_GITHUB_URL](https://github.com/yusufkc28/mini_catalog_store)
+git clone (https://github.com/yusufkc28/mini_catalog_store)
 ```
 
 2. Gerekli paketleri yükleyin
